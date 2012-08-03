@@ -15,6 +15,11 @@ namespace Rhymes.Controllers
             return View();
         }
 
+        public ActionResult Rhymes()
+        {
+            return View();
+        }
+
         public ActionResult About()
         {
             return View();
