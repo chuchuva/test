@@ -11,7 +11,8 @@ namespace Hello
         {
             Console.WriteLine("Hello!");
             Console.WriteLine("Hello from Pavel!");
-
+            Console.WriteLine("Hello from Frog!");
+            Console.ReadLine();
         }
     }
 }
