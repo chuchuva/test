@@ -15,6 +15,7 @@ namespace Hello
             Console.WriteLine("Hello from Vic!");
             Console.WriteLine("Hello from Eric!");
             Console.WriteLine("Hello from Leo!");
+            Console.WriteLine("Hello from Bruce");
             Console.ReadLine();
         }
     }
