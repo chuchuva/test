@@ -1,6 +1,6 @@
 ---
 title: The cat with a hat!
-layout: Not sure
+layout: default
 ---
 
 Here is my and mine page.
